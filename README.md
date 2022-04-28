@@ -9,3 +9,6 @@ Here you can find the docunemts I've created during the 4 weeks Project-Manageme
 
 
 3rd Document: Milestones and WBS
+
+
+4th Document: Risk Management
